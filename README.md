@@ -14,13 +14,13 @@ Este repositório contém a aplicação desenvolvida como exercício da discipli
 
 ---
 ### Etapas da Avaliação
-1. **Execução Local:** Clonagem do repositório e index das rotas com Node.js.
+1. **Execução Local:** Clonagem do repositório e app das rotas com Node.js.
 2. **Implantação em Nuvem (AWS EC2):** Deploy e validação via URL da instância.
-3. **Deploy no Railway:** Publicação da aplicação e index do funcionamento online.
+3. **Deploy no Railway:** Publicação da aplicação e app do funcionamento online.
 
 ---
 ### Observações\a
-O repositório contém apenas os arquivos do Node.js e o `index.js` da aplicação.
+O repositório contém apenas os arquivos do Node.js e o `app.js` da aplicação.
 
 ---
 ### Ferramentas Usadas
